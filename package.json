@@ -1,0 +1,28 @@
+{
+  "name": "football-trainer-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilabacheuski/football-trainer-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilabacheuski/football-trainer-bot/issues"
+  },
+  "homepage": "https://github.com/ilabacheuski/football-trainer-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.31.0",
+    "tslib": "^1.9.3",
+    "typescript": "^3.4.5"
+  }
+}
